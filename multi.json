@@ -1,0 +1,64 @@
+{"by_class":{
+	"element":[
+		{"type":["bracer", "amulet"],
+		"stats":{
+			"DH":4,
+			"monk":5,
+			"wiz":4,
+			"WD":4,
+			"necro":3,
+			"barb":4,
+			"sader":4
+		}}
+	],
+	"skill":[
+		{"type":["boots", "helmet"],
+		"stats":{
+			"DH":7,
+			"monk":4,
+			"wiz":7,
+			"WD":5,
+			"necro":3,
+			"barb":4,
+			"sader":6
+		}},
+		{"type":["chest", "shoulder"],
+		"stats":{
+			"DH":5,
+			"monk":5,
+			"wiz":5,
+			"WD":8,
+			"necro":7,
+			"barb":7,
+			"sader":4
+		}},
+		{"type":["belt", "pants"],
+		"stats":{
+			"DH":5,
+			"monk":4,
+			"wiz":4,
+			"WD":4,
+			"necro":3,
+			"barb":4,
+			"sader":4
+		}},
+		{"type":["offhand", "shield", "2h"],
+		"stats":{
+			"DH":17,
+			"monk":13,
+			"wiz":16,
+			"WD":17,
+			"necro":13,
+			"barb":15,
+			"sader":14
+		}}
+	]
+},
+"by_slot":{
+	"chance_on_hit":{
+		"1h":8,
+		"2h":8,
+		"offhand":8,
+		"shield":8
+	}
+}}

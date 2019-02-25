@@ -1,0 +1,30 @@
+{"name":"Yang's Recurve",
+ "class":"DH",
+ "stats": {
+	"type":"2h",
+	"subtype":"bow",
+	"num_primary":5,
+	"num_secondary":2,
+	"guaranteed_primary": [
+		{"affix":"avgdmg"},
+		{"affix":"mainstat"},
+		{"affix":"dmg"},
+		{"affix":"yang_rcr", "special":true, "min":40, "max":50, "reroll":false, "multistat":1}
+	],
+	"guaranteed_secondary": [
+		{"affix":"multishot", "special":true, "min":150, "max":200, "reroll":false, "multistat":1}
+	],
+	"desired_rolls": [
+		{"ancient":true,
+		 "configuration": {
+			"avgdmg":{"min":3370, "multistat_order":0},
+			"mainstat":{"min":0, "multistat_order":0},
+			"dmg":{"min":8, "multistat_order":0},
+			"AD":{"min":22, "multistat_order":0},
+			"yang_rcr":{"min":47, "multistat_order":0},
+			"discipline":{"min":12, "multistat_order":0},
+			"multishot":{"min":195, "multistat_order":0}
+		}}
+	]
+}
+}

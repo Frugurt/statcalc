@@ -1,0 +1,279 @@
+{
+    "boots": {
+        "affixes": [
+            "mainstat",
+            "vit",
+            "MS",
+            "LPS",
+            "AR",
+            "armor",
+            "skill"
+        ]
+    },
+    "pants": {
+        "affixes": [
+            "mainstat",
+            "vit",
+            "socket",
+            "LPS",
+            "AR",
+            "armor",
+            "skill"
+        ]
+    },
+    "belt": {
+        "affixes": [
+            "mainstat",
+            "vit",
+            "life",
+            "LPS",
+            "AR",
+            "armor",
+            "skill"
+        ],
+		"mighty_belt": [
+			"LPFS"
+		]
+    },
+    "chest": {
+        "affixes": [
+            "mainstat",
+            "vit",
+            "life",
+            "LPS",
+            "AR",
+            "armor",
+            "socket",
+            "skill",
+            "elite_resist"
+        ],
+		"cloak": [
+			"hatred_regen"
+		]
+    },
+    "glove": {
+        "affixes": [
+            "mainstat",
+            "vit",
+            "CC",
+            "CHD",
+            "CDR",
+            "RCR",
+            "IAS",
+            "LPS",
+            "AD",
+            "AR",
+            "armor",
+            "LPH"
+        ]
+    },
+    "bracer": {
+        "affixes": [
+            "mainstat",
+            "vit",
+            "CC",
+            "LPS",
+            "AR",
+            "element",
+            "armor",
+            "LPH"
+        ]
+    },
+    "shoulder": {
+        "affixes": [
+            "mainstat",
+            "vit",
+            "life",
+            "LPS",
+            "AR",
+            "armor",
+            "AD",
+            "CDR",
+            "RCR",
+            "skill"
+        ]
+    },
+    "helmet": {
+        "affixes": [
+            "mainstat",
+            "vit",
+            "CC",
+            "life",
+            "LPS",
+            "AR",
+            "armor",
+            "LPH",
+            "socket",
+            "skill"
+        ],
+		"wizard_hat": [
+			"APoC"
+		],
+		"voodoo_mask": [
+			"mana_regen"
+		],
+		"spirit_stone": [
+			"LPSS",
+			"spirit_regen"
+		]
+    },
+    "1h": {
+        "affixes": [
+			"avgdmg",
+            "mainstat",
+            "vit",
+            "dmg",
+            "CDR",
+            "RCR",
+            "IAS",
+            "AD",
+            "LPH",
+            "socket",
+            "elite_dmg",
+            "bleed"
+        ],
+		"wand": [],
+		"ceremonial_knife": [
+			"mana_regen"
+		],
+		"scythe": [],
+		"mighty_weapon": [
+			"LPFS"
+		],
+		"flail": [
+			"LPWS",
+			"wrath_regen"
+		],
+		"hand_xbow": [
+			"hatred_regen"
+		],
+		"fist": [
+			"LPSS",
+			"spirit_regen"
+		]
+    },
+    "2h": {
+        "affixes": [
+			"avgdmg",
+            "mainstat",
+            "vit",
+            "dmg",
+            "CDR",
+            "RCR",
+            "IAS",
+            "AD",
+            "LPH",
+            "socket",
+            "elite_dmg",
+            "bleed"
+        ],
+		"big_scythe": [],
+		"big_mighty_weapon": [
+			"LPFS",
+			"skill"
+		],
+		"big_flail": [
+			"LPWS",
+			"wrath_regen"
+		],
+		"xbow": [],
+		"bow": [],
+		"daibo": [
+			"LPSS",
+			"spirit_regen",
+			"skill"
+		]
+    },
+    "ring": {
+        "affixes": [
+            "mainstat",
+            "vit",
+            "avgdmg",
+            "CC",
+            "CHD",
+            "CDR",
+            "RCR",
+            "life",
+            "IAS",
+            "LPS",
+            "AD",
+            "AR",
+            "armor",
+            "LPH",
+            "socket"
+        ]
+    },
+    "amulet": {
+        "affixes": [
+            "mainstat",
+            "vit",
+            "avgdmg",
+            "CC",
+            "CHD",
+            "CDR",
+            "RCR",
+            "life",
+            "IAS",
+            "LPS",
+            "AD",
+            "AR",
+            "armor",
+            "element",
+            "socket"
+        ]
+    },
+    "offhand": {
+        "affixes": [
+            "mainstat",
+            "vit",
+            "CC",
+            "CDR",
+            "RCR",
+            "life",
+            "LPS",
+            "AD",
+            "socket",
+            "skill",
+            "elite_dmg",
+            "bleed"
+        ],
+		"source": [
+			"avgdmg",
+			"APoC"
+		],
+		"mojo": [
+			"avgdmg",
+			"mana_regen"
+		],
+		"quiver": [
+			"IAS",
+			"hatred_regen"
+		],
+		"phylactery": [
+			"avgdmg"
+		]
+    },
+    "shield": {
+        "affixes": [
+			"native_block",
+            "mainstat",
+            "vit",
+            "CC",
+            "CDR",
+            "RCR",
+            "life",
+            "block",
+            "LPS",
+            "socket",
+            "elite_dmg",
+			"elite_resist",
+            "bleed"
+        ],
+		"crusader_shield": [
+			"LPWS",
+			"wrath_regen",
+			"AD", 
+			"skill"
+		]
+    }
+}

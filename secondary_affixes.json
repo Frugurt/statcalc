@@ -1,0 +1,315 @@
+{
+	"arcane_power":{
+		"multi":1,
+		"weight":4000,
+		"increment":1,
+		"ranges":[
+			{"type":["wizard_hat", "source", "wand"],
+			 "min":10,
+			 "max":14,
+			 "ancient_min":10,
+			 "ancient_max":14
+			}
+		]
+	},
+	
+	"discipline":{
+		"multi":1,
+		"weight":4000,
+		"increment":1,
+		"ranges":[
+			{"type":["hand_xbow", "bow", "xbow", "cloak", "quiver"],
+			 "min":10,
+			 "max":12,
+			 "ancient_min":10,
+			 "ancient_max":12
+			}
+		]
+	},
+	
+	"fury":{
+		"multi":1,
+		"weight":4000,
+		"increment":1,
+		"ranges":[
+			{"type":["mighty_weapon", "mighty_belt"],
+			 "min":10,
+			 "max":12,
+			 "ancient_min":10,
+			 "ancient_max":12
+			},
+			{"type":["big_mighty_weapon"],
+			 "min":20,
+			 "max":24,
+			 "ancient_min":20,
+			 "ancient_max":24
+			}
+		]
+	},
+	
+	"mana":{
+		"multi":1,
+		"weight":4000,
+		"increment":1,
+		"ranges":[
+			{"type":["ceremonial_knife", "mojo", "voodoo_mask"],
+			 "min":120,
+			 "max":150,
+			 "ancient_min":120,
+			 "ancient_max":150
+			}
+		]
+	},
+	
+	"wrath":{
+		"multi":1,
+		"weight":4000,
+		"increment":1,
+		"ranges":[
+			{"type":["flail", "crusader_shield"],
+			 "min":8,
+			 "max":10,
+			 "ancient_min":8,
+			 "ancient_max":10
+			},
+			{"type":["big_flail"],
+			 "min":16,
+			 "max":20,
+			 "ancient_min":16,
+			 "ancient_max":20
+			}
+		]
+	},
+	
+	"essence":{
+		"multi":1,
+		"weight":4000,
+		"increment":1,
+		"ranges":[
+			{"type":["scythe", "phylactery"],
+			 "min":18,
+			 "max":20,
+			 "ancient_min":18,
+			 "ancient_max":20
+			},
+			{"type":["big_scythe"],
+			 "min":36,
+			 "max":40,
+			 "ancient_min":36,
+			 "ancient_max":40
+			}
+		]
+	},
+	
+	"radius":{
+		"multi":1,
+		"weight":1500,
+		"increment":1,
+		"ranges":[
+			{"type":["boots", "pants", "belt", "bracer", "glove", "chest", "shoulder", "helmet"],
+			 "min":1,
+			 "max":2,
+			 "ancient_min":1,
+			 "ancient_max":2
+			}
+		]
+	},
+	
+	"gold":{
+		"multi":1,
+		"weight":1000,
+		"increment":1,
+		"ranges":[
+			{"type":["boots", "pants", "belt", "bracer", "glove", "chest", "shoulder", "helmet", "ring", "offhand", "shield"],
+			 "min":32,
+			 "max":35,
+			 "ancient_min":32,
+			 "ancient_max":35
+			},
+			{"type":["amulet"],
+			 "min":71,
+			 "max":80,
+			 "ancient_min":71,
+			 "ancient_max":80
+			}
+		]
+	},
+	
+	"exp":{
+		"multi":1,
+		"weight":1000,
+		"increment":1,
+		"ranges":[
+			{"type":["boots", "pants", "belt", "bracer", "glove", "chest", "shoulder", "helmet", "ring", "offhand", "shield", "amulet", "1h", "2h"],
+			 "min":140,
+			 "max":200,
+			 "ancient_min":220,
+			 "ancient_max":260
+			}
+		]
+	},
+	
+	"CCR":{
+		"multi":1,
+		"weight":1000,
+		"increment":1,
+		"ranges":[
+			{"type":["helmet", "ring", "amulet", "shield"],
+			 "min":20,
+			 "max":40,
+			 "ancient_min":20,
+			 "ancient_max":40
+			}
+		]
+	},
+	
+	"globe":{
+		"multi":1,
+		"weight":1000,
+		"increment":1,
+		"ranges":[
+			{"type":["helmet", "chest", "amulet", "ring", "shoulder", "boots", "shield", "offhand"],
+			 "min":20001,
+			 "max":29713,
+			 "ancient_min":32684,
+			 "ancient_max":38625
+			}
+		]
+	},
+	
+	"resist":{
+		"multi":6,
+		"weight":1000,
+		"increment":1,
+		"ranges":[
+			{"type":["boots", "pants", "belt", "bracer", "glove", "chest", "shoulder", "helmet", "ring", "amulet", "shield"],
+			 "min":141,
+			 "max":160,
+			 "ancient_min":176,
+			 "ancient_max":210
+			}
+		]
+	},
+	
+	"LPK":{
+		"multi":1,
+		"weight":1000,
+		"increment":1,
+		"ranges":[
+			{"type":["chest", "belt", "pants", "ring"],
+			 "min":4252,
+			 "max":5942,
+			 "ancient_min":6536,
+			 "ancient_max":7725
+			},
+			{"type":["amulet", "1h"],
+			 "min":6428,
+			 "max":8914,
+			 "ancient_min":9805,
+			 "ancient_max":11590
+			},
+			{"type":["2h"],
+			 "min":9142,
+			 "max":13371,
+			 "ancient_min":14708,
+			 "ancient_max":17385
+			}
+		]
+	},
+	
+	"thorns":{
+		"multi":1,
+		"weight":600,
+		"increment":1,
+		"ranges":[
+			{"type":["helmet", "globe", "bracer", "pants", "ring"],
+			 "min":2401,
+			 "max":2880,
+			 "ancient_min":2881,
+			 "ancient_max":3500
+			},
+			{"type":["amulet", "shoulder", "chest", "belt", "shield"],
+			 "min":5334,
+			 "max":7696,
+			 "ancient_min":7697,
+			 "ancient_max":9500
+			}
+		]
+	},
+	
+	"ranged":{
+		"multi":1,
+		"weight":400,
+		"increment":1,
+		"ranges":[
+			{"type":["chest", "bracer", "amulet", "shield"],
+			 "min":6,
+			 "max":7,
+			 "ancient_min":6,
+			 "ancient_max":7
+			}
+		]
+	},
+	
+	"melee":{
+		"multi":1,
+		"weight":400,
+		"increment":1,
+		"ranges":[
+			{"type":["chest", "bracer", "amulet", "shield"],
+			 "min":6,
+			 "max":7,
+			 "ancient_min":6,
+			 "ancient_max":7
+			}
+		]
+	},
+	
+	"level":{
+		"multi":1,
+		"weight":100,
+		"increment":1,
+		"ranges":[
+			{"type":["boots", "pants", "belt", "bracer", "glove", "chest", "shoulder", "helmet", "ring", "offhand", "shield", "1h", "2h"],
+			 "min":2,
+			 "max":30,
+			 "ancient_min":30,
+			 "ancient_max":40
+			}
+		]
+	},
+	
+	"durability":{
+		"multi":1,
+		"weight":100,
+		"increment":1,
+		"ranges":[
+			{"type":["boots", "pants", "belt", "bracer", "glove", "chest", "shoulder", "helmet", "offhand", "shield", "1h", "2h"],
+			 "min":1,
+			 "max":1,
+			 "ancient_min":1,
+			 "ancient_max":1
+			}
+		]
+	},
+	
+	"chance_on_hit":{
+		"multi":1,
+		"weight":100,
+		"increment":0.1,
+		"ranges":[
+			{"type":["boots", "pants", "belt", "bracer", "glove", "shoulder", "helmet", "amulet", "2h"],
+			 "min":1,
+			 "max":5.1,
+			 "ancient_min":1,
+			 "ancient_max":5.1
+			},
+			{"type":["1h", "offhand", "shield"],
+			 "min":1,
+			 "max":2.6,
+			 "ancient_min":1,
+			 "ancient_max":2.6
+			}
+		]
+	}
+}

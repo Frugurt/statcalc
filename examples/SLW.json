@@ -1,0 +1,28 @@
+{"name":"Swamp Land Waders",
+ "class":"WD",
+ "stats": {
+	"type":"pants",
+	"subtype":null,
+	"num_primary":5,
+	"num_secondary":2,
+	"guaranteed_primary": [
+		{"affix":"mainstat"},
+		{"affix":"element", "special":true, "min":15, "max":20, "reroll":true, "multistat":4},
+		{"affix":"socket"}
+	],
+	"guaranteed_secondary": [
+		{"affix":"sacrifice", "special":true, "min":300, "max":400, "reroll":false, "multistat":1}
+	],
+	"desired_rolls": [
+		{"ancient":true,
+		 "configuration": {
+			"element":{"min":20, "multistat_order":5},
+			"mainstat":{"min":0, "multistat_order":0},
+			"vit":{"min":0, "multistat_order":0},
+			"AR":{"min":0, "multistat_order":0},
+			"socket":{"min":2, "multistat_order":0},
+			"sacrifice":{"min":0, "multistat_order":0}
+		}}
+	]
+}
+}

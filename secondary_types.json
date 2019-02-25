@@ -1,0 +1,244 @@
+{
+    "boots": {
+        "affixes": [
+            "radius",
+            "LPK",
+            "exp",
+            "resist",
+            "thorns",
+            "level",
+            "durability",
+            "chance_on_hit"
+        ]
+    },
+    "pants": {
+        "affixes": [
+            "radius",
+            "LPK",
+            "exp",
+            "resist",
+            "thorns",
+            "level",
+            "durability",
+            "chance_on_hit"
+        ]
+    },
+    "belt": {
+        "affixes": [
+            "radius",
+            "LPK",
+            "exp",
+            "resist",
+            "thorns",
+            "ranged",
+            "melee",
+            "level",
+            "durability",
+            "chance_on_hit"
+        ],
+		"mighty_belt": [
+			"fury"
+		]
+    },
+    "chest": {
+        "affixes": [
+            "radius",
+            "gold",
+            "exp",
+            "globe",
+            "resist",
+            "LPK",
+            "thorns",
+            "ranged",
+            "melee",
+            "level",
+            "durability"
+        ],
+		"cloak": [
+			"discipline"
+		]
+    },
+    "glove": {
+        "affixes": [
+            "radius",
+            "gold",
+            "exp",
+            "resist",
+            "thorns",
+            "level",
+            "durability",
+            "chance_on_hit"
+        ]
+    },
+    "bracer": {
+        "affixes": [
+            "radius",
+            "gold",
+            "exp",
+            "resist",
+            "thorns",
+            "ranged",
+            "melee",
+            "level",
+            "durability",
+            "chance_on_hit"
+        ]
+    },
+    "shoulder": {
+        "affixes": [
+            "radius",
+            "globe",
+            "exp",
+            "resist",
+            "thorns",
+            "level",
+            "durability",
+            "chance_on_hit"
+        ]
+    },
+    "helmet": {
+        "affixes": [
+            "radius",
+            "gold",
+            "exp",
+            "CCR",
+            "resist",
+            "thorns",
+            "level",
+            "durability",
+            "chance_on_hit"
+        ],
+		"wizard_hat": [
+			"arcane_power"
+		],
+		"voodoo_mask": [
+			"mana"
+		],
+		"spirit_stone": [
+			"spirit"
+		]
+    },
+    "1h": {
+        "affixes": [
+            "exp",
+            "LPK",
+            "level",
+            "durability",
+            "chance_on_hit"
+        ],
+		"wand": [
+			"arcane_power"
+		],
+		"ceremonial_knife": [
+			"mana"
+		],
+		"scythe": [
+			"essence"
+		],
+		"mighty_weapon": [
+			"fury"
+		],
+		"flail": [
+			"wrath"
+		],
+		"hand_xbow": [
+			"discipline"
+		],
+		"fist": [
+			"spirit"
+		]
+    },
+    "2h": {
+        "affixes": [
+            "exp",
+            "LPK",
+            "level",
+            "durability",
+            "chance_on_hit"
+        ],
+		"big_scythe": [
+			"essence"
+		],
+		"big_mighty_weapon": [
+			"fury"
+		],
+		"big_flail": [
+			"wrath"
+		],
+		"xbow": [
+			"discipline"
+		],
+		"bow": [
+			"discipline"
+		],
+		"daibo": [
+			"spirit"
+		]
+    },
+    "ring": {
+        "affixes": [
+            "gold",
+            "exp",
+            "CCR",
+            "globe",
+            "resist",
+            "LPK",
+            "thorns"
+        ]
+    },
+    "amulet": {
+        "affixes": [
+            "gold",
+            "exp",
+            "CCR",
+            "globe",
+            "resist",
+            "LPK",
+            "thorns",
+            "ranged",
+            "melee",
+            "chance_on_hit"
+        ]
+    },
+    "offhand": {
+        "affixes": [
+            "gold",
+            "exp",
+            "globe",
+            "thorns",
+            "level",
+            "durability",
+            "chance_on_hit"
+        ],
+		"source": [
+			"arcane_power"
+		],
+		"mojo": [
+			"mana"
+		],
+		"quiver": [
+			"discipline"
+		],
+		"phylactery": [
+			"essence"
+		]
+    },
+    "shield": {
+        "affixes": [
+			"resist",
+            "exp",
+            "globe",
+            "level",
+            "durability",
+			"melee",
+			"ranged",
+			"gold",
+			"thorns",
+			"CCR",
+            "chance_on_hit"
+        ],
+		"crusader_shield": [
+			"wrath"
+		]
+    }
+}

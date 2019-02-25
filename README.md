@@ -1,13 +1,17 @@
-Well, there it is, folks!
+#version 0.2 POGGERS!
 
-Notebook file has some examples and explanations and I usually work from there, but nothing stops you from just importing two .py files and doing everything in regular python console.
+item_simulation.py is the main script, use
+```
+python item_simulation.py item_file [--tries NUM_TRIES]
+```
+where item file is a JSON file describing your item, see /examples
 
-TODO
+Alternatively you can launch the GUI by using
+```
+python main.py
+```
+there's barely any input validation so if you try something funny you will get funny results too ( ͡° ͜ʖ ͡°)
 
-1. Make it so users dont have to manually define what each item can roll and how each stat works
-either turn statlist.py into a complete database of all items or pull it from whatever API, ask Riv idk
+Requirements are numpy (because using random function from STL is not cool LuL) and pyqt5 for GUI version only.
 
-2. Add possibility to specify which affixes you DONT want, i.e. LPK for SMH builds, %chance to cc for necro or APD users
-right now you need to calculate probability of item with any stat in that slot then with undesirable stat and then substract one from another
-
-3. Add interface OMEGALUL
+If you don't want to install python and stuff, there's a poorly frozen version of GUI available [here](https://www116.zippyshare.com/v/gXTCqDah/file.html). It might work on Windows.
